@@ -65,8 +65,12 @@ IGNISSHIELD/
 │   ├── listar_sensores.php
 │   ├── recuperar.php
 │   ├── logout.php
-│   
-│
+│   ├── criar_sensores.php
+│   ├── nova_password.php
+|   ├── dados.txt
+|   ├── dados.php
+|   ├── registar.php
+|
 ├── database/
 │   └── ignisshield.sql
 │
