@@ -69,13 +69,9 @@ IGNISSHIELD/
 |   ├── dados.php
 |   ├── registar.php
 |
-├── database/
-│   └── ignisshield.sql
-│
 ├── arduino/
 │   └── codigo_arduino.txt
-│
-└── README.md
+
 ```
 
 ---
